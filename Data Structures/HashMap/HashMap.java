@@ -1,6 +1,6 @@
 <<<<<<< HEAD:Data Structures/HashMap/HashMap.java
 
-
+//Hash Map
 import java.util.ArrayList;
 import java.util.LinkedList;
 
